@@ -1,1 +1,3 @@
-# Git-Versiohallinta-P-iv-kirjat
+# git-oppimispaivakirja
+
+Tämä on kurssin oppimispäiväkirja.
